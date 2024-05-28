@@ -1,0 +1,3 @@
+D:/cnsvbun/cmake-build-debug/CMakeFiles/cnsvbun.dir
+D:/cnsvbun/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cnsvbun/cmake-build-debug/CMakeFiles/rebuild_cache.dir

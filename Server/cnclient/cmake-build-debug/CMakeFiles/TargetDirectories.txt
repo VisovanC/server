@@ -1,0 +1,3 @@
+D:/cnclient3/cmake-build-debug/CMakeFiles/cnclient3.dir
+D:/cnclient3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cnclient3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
